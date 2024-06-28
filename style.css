@@ -11,7 +11,6 @@ body {
     margin: 0;
     align-items: center;
     background: #001D21;
-    background-image: radial-gradient(circle at 1px 1px, rgb(251,133,105) 1px, transparent 0);
     background-size: 25px 25px;
 }
 header {
