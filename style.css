@@ -6,7 +6,6 @@ body {
     font-family: "ubuntu sans mono", monospace;
     display: flex;
     flex-direction: column;
-    color: rgb(251,133,105);
     min-height: 100vh;
     margin: 0;
     align-items: center;
